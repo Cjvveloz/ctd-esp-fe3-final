@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Estilos para el tema claro */
+.light-theme {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Estilos para el tema oscuro */
+  .dark-theme {
+    background-color: #121212;
+    color: white;
+  }
+  
+  /* Estilos adicionales para elementos específicos */
+  .button {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .light-theme .button {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .dark-theme .button {
+    background-color: #444;
+    color: white;
+  }
+  
